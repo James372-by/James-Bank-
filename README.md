@@ -1,4 +1,4 @@
-# James-Bank-
+# BBank-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +14,7 @@
 <body>
   <div class="bank-container">
     <h1>Welcome to MyBank</h1>
-    <p>Account Holder: John Doe</p>
+    <p>Account Holder:  James </p>
     <p class="balance">Balance: £12,345.67</p>
     <a href="https://example.com/help-center" class="support-link">Visit Help Center</a>
   </+447743 033345>
